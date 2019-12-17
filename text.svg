@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1341.573" height="1188.517" viewBox="0 0 354.958 314.462">
+    <defs>
+        <linearGradient id="a">
+            <stop offset="0" stop-color="#13c4a5"/>
+            <stop offset="1" stop-color="#ddd"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="d" x1="599.589" y1="208.118" x2="599.589" y2="210.343" gradientUnits="userSpaceOnUse"/>
+    </defs>
+    <g transform="translate(-428.329 -55.438)">
+        <text xml:space="default" style="line-height:1.20000005;-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="601.925" y="184.723" id="b" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="106.34" font-family="Ubuntu, Noto Sans CJK JP" letter-spacing="0" word-spacing="0" writing-mode="lr-tb" text-anchor="start" fill-opacity="1">
+            <tspan x="601.925" y="184.723" style="line-height:1.20000005;-inkscape-font-specification:'Ubuntu, Noto Sans CJK JP Heavy';text-align:center" font-weight="900" text-anchor="middle">1行目</tspan>
+            <tspan x="601.925" y="312.331" style="line-height:1.20000005;-inkscape-font-specification:'Ubuntu, Noto Sans CJK JP Heavy';text-align:center" font-weight="900" text-anchor="middle">2行目</tspan>
+        </text>
+        <g fill="#fff" stroke="#fff" stroke-width="23.813" stroke-linejoin="round">
+            <use height="100%" width="100%" xlink:href="#b"/>
+            <use height="100%" width="100%" xlink:href="#b" transform="translate(2.092 1.011)"/>
+            <use height="100%" width="100%" xlink:href="#b" transform="translate(4.183 2.023)"/>
+            <use height="100%" width="100%" xlink:href="#b" transform="translate(6.275 3.034)"/>
+            <use height="100%" width="100%" xlink:href="#b" transform="translate(8.367 4.045)"/>
+            <use height="100%" width="100%" xlink:href="#b" transform="translate(10.459 5.056)"/>
+            <use height="100%" width="100%" xlink:href="#b" transform="translate(12.55 6.068)"/>
+            <use height="100%" width="100%" xlink:href="#b" transform="translate(14.642 7.079)"/>
+            <use height="100%" width="100%" xlink:href="#b" transform="translate(16.734 8.09)"/>
+            <use height="100%" width="100%" xlink:href="#b" transform="translate(18.825 9.102)"/>
+        </g>
+        <g stroke="#000">
+            <use x="0" y="0" xlink:href="#b" id="c" width="100%" height="100%" fill="#000" fill-opacity="1" stroke="#000" stroke-width="13.229" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1"/>
+            <use width="100%" height="100%" xlink:href="#c" transform="translate(2.092 1.011)"/>
+            <use width="100%" height="100%" xlink:href="#c" transform="translate(4.183 2.023)"/>
+            <use width="100%" height="100%" xlink:href="#c" transform="translate(6.275 3.034)"/>
+            <use width="100%" height="100%" xlink:href="#c" transform="translate(8.367 4.045)"/>
+            <use width="100%" height="100%" xlink:href="#c" transform="translate(10.459 5.056)"/>
+            <use width="100%" height="100%" xlink:href="#c" transform="translate(12.55 6.068)"/>
+            <use width="100%" height="100%" xlink:href="#c" transform="translate(14.642 7.08)"/>
+            <use width="100%" height="100%" xlink:href="#c" transform="translate(16.734 8.09)"/>
+            <use width="100%" height="100%" xlink:href="#c" transform="translate(18.825 9.102)"/>
+            <use xlink:href="#c" width="100%" height="100%"/>
+        </g>
+        <use height="100%" width="100%" xlink:href="#b" fill="url(#d)"/>
+        <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="98.961" y="126.659" font-weight="400" font-size="10.583" font-family="Noto Sans CJK JP" letter-spacing="0" word-spacing="0" stroke-width=".265"/>
+    </g>
+</svg>
